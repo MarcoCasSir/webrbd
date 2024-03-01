@@ -1,0 +1,144 @@
+@font-face {  
+    font-family: 'Breaking Bad';   
+    src: url('fonts/Breaking\ Bad.ttf');
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;    
+    text-align: center;
+    margin: 0 auto;   
+    
+}
+
+#bdtab {
+    background-color: #0c3e11;
+}
+
+#bdindex {
+    background-image: url("img/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+                                          /* PARA LA PAGINA PRINCIPAL */
+
+
+#logo{
+    width: 200px;
+    height: 200px;
+    margin: auto;    
+    padding-block: 1px;
+}
+
+#frase{
+    font-size: 40px;
+    font-weight: normal;
+    font-family: 'Breaking Bad';
+    color: white;    
+}
+
+#poster{
+    border: 10px;
+    border-style: outset;
+    border-color: brown;
+    border-radius: 22px;
+    width: 700px;
+    height:300px;       
+}
+   
+                                        /* para el FORMULIARIO*/
+
+#titulo {
+color: rgb(31, 32, 30);
+}
+.form{   
+    border-radius: 50px;
+    border: #0c3e11;
+    border-style: dashed;
+    width: 400px ;
+    height: auto;
+    margin:0 auto;
+    padding: 10px;
+    background-color:rgba(255, 255, 255, 0);     
+}
+
+                                            /* PARA LA TABLA */
+
+#tablaP {
+    background-color: #2b2c24;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 14px;    
+    padding: 0;
+}
+#tablaS{
+    background-color: #2b2c24;
+    margin:0 auto;
+}
+
+
+.tblPeq {
+    background-color: #c2c62a;
+    text-align: center;
+}
+
+p {
+    font-size: 10px;
+    vertical-align: bottom;
+}
+tr,td {
+    Border: 3px solid #2b2c24;
+    border-style: solid;
+    width: 73px;
+    height: 68px;     
+    padding: 0;
+}
+#GR0 {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.GR1 {
+    background-color: #b8db1d;
+}
+
+.GR2 {
+    background-color: #c5e24b;
+}
+
+.GR3 {
+    background-color: #eff7c8;
+}
+
+.GR4 {
+    background-color: #89a419;
+}
+
+.GR5 {
+    background-color: #63702a;
+}
+
+.GR6 {
+    background-color: #bcc49d;
+}
+
+.GR7 {
+    background-color: #828e50;
+}
+
+.GR8 {
+    background-color: #d3e582;
+}
+
+#GR9 {
+    background-color: #ab8ecd;
+}
+
+.GR10 {
+    height: 40px;
+}
+
+
+
+
